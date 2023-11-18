@@ -3,8 +3,10 @@
 h1 {
   font-family: "Gaegu", cursive;
   margin: 20px 0;
+  text-align: center;
   /*=======  Font size'ı 60px yapın ve text'i ortalayın(center) */
-  font-size: 10px;
+  font-size: 60px;
+  color: #1ba047;
 }
 
 h2,
